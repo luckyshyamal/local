@@ -1,0 +1,7 @@
+body{
+  background-color: black;
+  width: auto;
+}
+h1{
+  background-image: linear-gradient(yellow,green);
+}
